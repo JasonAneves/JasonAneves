@@ -30,6 +30,8 @@ Alguns Layouts Desenvolvidos
 </li>                    
 </ul>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonAneves)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projeto Pessoal em Desenvolvimento 
 http://mgasistemas.infinityfreeapp.com/
 
