@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/website?label=ingadigital.com.br&style=for-the-badge&url=https://sujeitoprogramador.com/)](http://ingadigital.com.br/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jasonworries)
-[![Blog](https://img.shields.io/website?label=mgasistemas.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](http://mgasistemas.infinityfreeapp.com/)
+[![Blog](https://img.shields.io/website?label=mgasistemas.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://mgasistemas.infinityfreeapp.com/)
 
 ![Jason GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonAneves&show_icons=true&theme=dracula)
 
@@ -33,5 +33,5 @@ Alguns Layouts Desenvolvidos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonAneves)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projeto Pessoal em Desenvolvimento 
-http://mgasistemas.infinityfreeapp.com/
+https://mgasistemas.infinityfreeapp.com/
 
